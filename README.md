@@ -31,12 +31,11 @@
 - 支持 ADDAPI 动态追加 CDN / IP 列表
 
 ---
-首先感谢所有项目代码内我缝合功能的几位大佬，排名不分前后。
+# 🙏 特别鸣谢
 
 https://t.me/CMLiussss CMLiussss大佬交流群（感谢大佬提供的Proxyip服务）
 https://t.me/HeroCore 天书大佬交流群 (感谢群内提供的交流平台 还有ZJ大佬的Proxyip自动逻辑等代码)
 https://t.me/eooceu 老王交流群 （本代码面板部分和Vless代码参考老王项目）
-
 
 ## 一、项目结构
 
