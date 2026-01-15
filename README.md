@@ -1,4 +1,5 @@
 # Cloudflare Workers VLESS + D1 流量统计（精简版）
+提前叠甲，因为D1写入次数的问题，设置了一分钟读取一次，会丢失部分统计流量，实际流量与显示统计流量会有一定的差异
 
 - Telegram交流群组：[@honghongtg](https://t.me/honghongtg)
 - Telegram通知频道：[@honghongll](https://t.me/honghongll)
